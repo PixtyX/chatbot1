@@ -43,21 +43,21 @@ Specify the drink(accept 1 to 3)
 For each drink, choose add-ons(accept 0-2)
 
 Delivery Options:
-By calling the head barista via his phone number
-Using Grab application to order
-Using Foodpanda application to order
+By calling the head barista via his phone number.
+Using Grab application to order.
+Using Foodpanda application to order.
 
 Ingredients:
-For Coffee - Arabica Coffee Beans, Sweetened creamer, Evaporated Creamer, Sugar
-For Tea - Selected tea leafs, Sweetened creamer, Evaporated creamer, Sugar
-For Chocolate Milkshake - Premium chocolate powder, milk, creamer, sugar
-For Milo Dinosaur - Milo powder, milk, creamer, sugar
-For Fruit Fiesta - Local fruits, selected tea leafs, sugar (Made from scratch, all locally sourced ingredients)
+For Coffee - Arabica Coffee Beans, Sweetened creamer, Evaporated Creamer, Sugar.
+For Tea - Selected tea leafs, Sweetened creamer, Evaporated creamer, Sugar.
+For Chocolate Milkshake - Premium chocolate powder, milk, creamer, sugar.
+For Milo Dinosaur - Milo powder, milk, creamer, sugar.
+For Fruit Fiesta - Local fruits, selected tea leafs, sugar. (Made from scratch, all locally sourced ingredients).
 
 Programs:
-No brewing workshop
-Loyalty program is available(RM30 per year)
-No refunds and returns
+No brewing workshop.
+Loyalty program is available(RM30 per year).
+No refunds and returns.
 
 Promotions:
 [Chocolate Spree] Chocolate milkshake 20% off (End at 29th March)
@@ -69,13 +69,13 @@ Add-Ons:
 Add-Ons is applied around the top of the drink
 
 Others:
-No vegan/free gluten options
-Order can be made via phone/chatbot (or coming to place)
-Deposit is 80% of the total price
-Do not accept any form of cash
-Tasting appointment can just come to the place directly
+No vegan/free gluten options.
+Order can be made via phone/chatbot (or coming to place).
+Deposit is 80% of the total price.
+Do not accept any form of cash.
+Tasting appointment can just come to the place directly.
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
 
 Other products:
-Ice cubes(FREE for customers)
-Plain water(FREE for customers)
+Ice cubes(FREE for customers).
+Plain water(FREE for customers).
