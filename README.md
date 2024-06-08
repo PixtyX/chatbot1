@@ -42,6 +42,11 @@ Ordering process:
 Specify the drink(accept 1 to 3)
 For each drink, choose add-ons(accept 0-2)
 
+Delivery Options:
+By calling the head barista via his phone number
+Using Grab application to order
+Using Foodpanda application to order
+
 Ingredients:
 For Coffee - Arabica Coffee Beans, Sweetened creamer, Evaporated Creamer, Sugar
 For Tea - Selected tea leafs, Sweetened creamer, Evaporated creamer, Sugar
