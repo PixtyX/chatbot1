@@ -7,10 +7,10 @@ Time open:
 Everyday from 9am to 6pm (Except wednesday)
 
 Website Link:
-(https://delectable-chocolate-cak-v4aceoq.gamma.sit)
+(https://delectable-chocolate-cak-v4aceoq.gamma.site/)
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
+Street - Bandar Puteri 1
 State/province/area - Selangor
 Zip code - 42600
 
