@@ -1,6 +1,6 @@
 Shop information
 
-Head Barista:
+Head Barista/Owner:
 Mr. Chan (A passionate barista with innovative ideas to improve on his products)
 
 Time open:
